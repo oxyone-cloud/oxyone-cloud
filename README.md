@@ -1,66 +1,42 @@
 # Oxyone Cloud 🇩🇿 🛰️
-# 🛰️ Oxyone Cloud | Next-Gen Industrial IoT & Digital Solutions 🇩🇿
+# 🛰️ Oxyone Cloud | Next-Gen Industrial IoT 🇩🇿
 
-### **Digitizing the Algerian Industrial Landscape through High-Performance Telemetry.**
-Oxyone Cloud provides robust, real-time monitoring ecosystems designed for critical infrastructure, cold chain logistics, and intelligent asset management.
+### **Digitizing the Algerian Industrial Landscape.**
+Oxyone Cloud provides robust, real-time monitoring ecosystems designed for critical infrastructure and cold chain logistics.
 
 ---
 
 ## 🛡️ Certified Startup Status
 | Entity Label | Status | Specialization |
 | :--- | :--- | :--- |
-| **Startup Algeria** | ✅ Official Label Holder | Industrial IoT & Real-time Telemetry |
+| **Startup Algeria** | ✅ Official Label Holder | Industrial IoT & Telemetry |
 
 ---
 
 ## 🚀 Our Core Ecosystem
 
-### ❄️ [Cold Service](https://cold-service.web.app/)
-**Precision Thermal Monitoring** for pharmaceutical and food storage.
-- **Digital Twin:** Real-time 3D visualization of cold storage units.
-- **Compliance:** Automated PDF export for health and safety audits.
-
-
-
-### 📍 Smart Tracking
-**Real-time Fleet & Asset Management** via advanced GPS/GSM telemetry.
-- **Geofencing:** Secure perimeter monitoring for high-value logistics.
-- **Analytics:** Predictive maintenance and fuel consumption tracking.
+### ❄️ [Cold Service](https://cold-service-othman.web.app)
+**Precision Thermal Monitoring** via Digital Twin.
+- Real-time 3D visualization.
+- Automated compliance PDF reports.
 
 ### 📊 [Digital Sense](https://digitalsense-5a6f2.web.app/)
 **The Neural Intelligence Layer.**
-- **Visualization:** Advanced data dashboards for complex sensor networks.
-- **OxyONE Core:** High-speed data processing with end-to-end encryption.
-
-
+- Advanced data dashboards for complex sensor networks.
+- Secured via OxyONE Core.
 
 ---
 
 ## 🛠️ Technology Stack
-
-![Three.js](https://img.shields.io/badge/3D_Visualization-Three.js-00d4ff?style=for-the-badge&logo=three.dot-js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Cloud_Infra-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Arduino](https://img.shields.io/badge/Hardware-Arduino_/_ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Three.js](https://img.shields.io/badge/3D-Three.js-00d4ff?style=flat-square&logo=three.dot-js)
+![Firebase](https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Infra-Google_Cloud-4285F4?style=flat-square&logo=google-cloud)
 
 ---
 
-## ⚙️ Software Architecture (The OxyONE Core)
-
-Our systems operate on a tiered architecture to ensure 99.9% uptime for industrial clients:
-1. **Edge Layer:** Local ESP32/GSM nodes capturing environmental telemetry.
-2. **Cloud Layer:** Encrypted transmission to the **Oxyone Cloud** via secure MQTT/HTTPS.
-3. **Application Layer:** Interactive Digital Twins and Blockchain-ready logs.
-
-
-
----
-
-## 📩 Contact & Collaboration
-
+## 📩 Contact Oxyone
 - 💼 **Professional Services:** Industrial Digitization & IoT Consulting
-- 🌍 **Location:** Algeria (National Coverage)
+- 🌍 **Location:** Algeria
 - 🔗 **Organization:** [github.com/oxyone-cloud](https://github.com/oxyone-cloud)
 
 ---
