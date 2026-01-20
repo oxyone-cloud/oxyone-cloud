@@ -1,4 +1,11 @@
-# Oxyone Cloud 🇩🇿 🛰️
+# 🛰️ Oxyone Cloud | Next-Gen Industrial IoT 🇩🇿
+
+<p align="center">
+  <img src="https://github.com/oxyone-cloud/Coldservice/raw/main/Softwar%20%20SSCI.png" alt="SSCI Global Software Architecture" width="100%">
+</p>
+
+### **Digitizing the Algerian Industrial Landscape.**
+Oxyone Cloud provides high-performance tracking and monitoring ecosystems designed for critical infrastructure and cold chain logistics.
 # 🛰️ Oxyone Cloud | Next-Gen Industrial IoT 🇩🇿
 
 ### **Digitizing the Algerian Industrial Landscape.**
