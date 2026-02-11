@@ -51,3 +51,7 @@ Oxyone Cloud provides robust, real-time monitoring ecosystems designed for criti
   <b>SSCI SOLUTION OF COLD • SMART SUSTAINABLE COLD INNOVATION</b><br>
   <i>POWERED BY OxyONE SYSTEMS • GLOBAL INFRASTRUCTURE</i>
 </p>
+<div align="center">
+  <img src="https://github.com/oxyone-cloud/Smart-tracking-syst-m/raw/main/Gemini_Generated_Image_yqe11vyqe11vyqe1.png" alt="OxyONE Smart Tracking System" width="100%" />
+</div>
+<br />
