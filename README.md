@@ -45,7 +45,8 @@ Oxyone Cloud provides robust, real-time monitoring ecosystems designed for criti
 - 💼 **Professional Services:** Industrial Digitization & IoT Consulting
 - 🌍 **Location:** Algeria
 - 🔗 **Organization:** [github.com/oxyone-cloud](https://github.com/oxyone-cloud
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://drive.usercontent.google.com/download?id=1g1mQEcvV9dzvBtTAC3_2QCanafb5AgLc&authuser=0&acrobatPromotionSource=gdrive_chrome-grid
+- 
+https://drive.google.com/file/d/1g1mQEcvV9dzvBtTAC3_2QCanafb5AgLc/view?usp=drive_link
 
 ---
 <p align="center">
