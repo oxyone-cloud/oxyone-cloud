@@ -55,6 +55,8 @@ https://drive.google.com/file/d/1g1mQEcvV9dzvBtTAC3_2QCanafb5AgLc/view?usp=drive
 </p>
 <div align="center">
   <img src="https://github.com/oxyone-cloud/Smart-tracking-syst-m/raw/main/Gemini_Generated_Image_yqe11vyqe11vyqe1.png" alt="OxyONE Smart Tracking System" width="100%" />
+ https://www.youtube.com/watch?v=SBGj3I6HjIQ
+ https://www.youtube.com/watch?v=xiBj3DjVRok 
 
 </div>
 <br />
