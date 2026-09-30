@@ -1,11 +1,11 @@
-# 🛰 Oxyone Cloud | Next-Gen Industrial IoT 🇩🇿 🇪🇸
+# 🛰 Oxyone Cloud | Next-Gen Industrial IoT & Business Intelligence 🇩🇿 🇪🇸
 
 <p align="center">
   <img src="https://github.com/oxyone-cloud/Coldservice/raw/main/Softwar%20%20SSCI.png" alt="SSCI Global Software Architecture" width="100%">
 </p>
 
-### **Digitizing the Industrial Landscape.**
-Oxyone Cloud provides high-performance tracking and monitoring ecosystems designed for critical infrastructure and cold chain logistics.
+### **Digitizing the Industrial Landscape via Advanced Business Intelligence.**
+Oxyone Cloud provides high-performance tracking, telemetry, and Business Intelligence ecosystems designed for critical infrastructure and cold chain logistics.
 
 ---
 
@@ -13,7 +13,7 @@ Oxyone Cloud provides high-performance tracking and monitoring ecosystems design
 
 | Status / Entity | Specialization | Hub / Location |
 | :--- | :--- | :--- |
-| **Startup Algeria** ✅ Official Label Holder | Industrial IoT & Telemetry | 🇩🇿 Oran, Algeria |
+| **Startup Algeria** ✅ Official Label Holder | Industrial IoT, Telemetry & Business Intelligence | 🇩🇿 Oran, Algeria |
 | **Contact & Growth Hub** | Tech Partnerships & EU Operations | 🇪🇸 Barcelona, Spain |
 
 ---
@@ -23,11 +23,11 @@ Oxyone Cloud provides high-performance tracking and monitoring ecosystems design
 ### ❄️ [Cold Service](https://cold-service-othman.web.app)
 **Precision Thermal Monitoring** via Digital Twin.
 - Real-time 3D visualization.
-- Automated compliance PDF reports.
+- Automated compliance PDF reports & BI analytics.
 
 ### 📊 [Digital Sense](https://digitalsense-5a6f2.web.app/)
 **The Neural Intelligence Layer.**
-- Advanced data dashboards for complex sensor networks.
+- Advanced Business Intelligence dashboards for complex sensor networks.
 - Secured via OxyONE Core.
 
 ---
@@ -37,6 +37,7 @@ Oxyone Cloud provides high-performance tracking and monitoring ecosystems design
 ![Firebase](https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Infra-Google_Cloud-4285F4?style=flat-square&logo=google-cloud)
 ![Flutter](https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter)
+![Business Intelligence](https://img.shields.io/badge/Analytics-Business_Intelligence-F2C94C?style=flat-square&logo=chartdotjs&logoColor=black)
 
 ---
 
@@ -71,7 +72,7 @@ Oxyone Cloud provides high-performance tracking and monitoring ecosystems design
 </p>
 
 - ✉️ **Email :** [othman@panelmets.es](mailto:othman@panelmets.es)
-- 💼 **Services :** Industrial Digitization & IoT Consulting
+- 💼 **Services :** Business Intelligence, Industrial Digitization & IoT Consulting
 - 📍 **Locations :** Algeria 🇩🇿 • Barcelona, Spain 🇪🇸
 - 🔗 **Organization :** [github.com/oxyone-cloud](https://github.com/oxyone-cloud)
 
