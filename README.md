@@ -88,3 +88,7 @@ Oxyone Cloud provides high-performance tracking, telemetry, and Business Intelli
 <div align="center">
   <img src="https://github.com/oxyone-cloud/Smart-tracking-syst-m/raw/main/Gemini_Generated_Image_yqe11vyqe11vyqe1.png" alt="OxyONE Smart Tracking System" width="100%" />
 </div>
+
+
+## Déploiement GCP
+Projet géré sur Google Cloud Shell ().
