@@ -1,6 +1,15 @@
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1250--8205-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1250-8205)
+<p align="center">
+  <img width="640" alt="Oxyone Cloud Ecosystem" src="https://github.com/user-attachments/assets/76a33367-df0b-4a72-8a43-20d39fc8b28b" />
+</p>
 
-# 🛰 Oxyone Cloud | Next-Gen Industrial IoT & Business Intelligence 🇩🇿 🇪🇸
+<p align="center">
+  <a href="https://orcid.org/0009-0000-1250-8205">
+    <img src="https://img.shields.io/badge/ORCID-0009--0000--1250--8205-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <img src="https://img.shields.io/badge/Startup_Labellisée-Algérie-blue?style=flat&logo=rocket&logoColor=white" alt="Startup Labellisée"/>
+</p>
+
+# 🛰️ Oxyone Cloud | Next-Gen Industrial IoT & Business Intelligence 🇩🇿 🇪🇸
 
 <p align="center">
   <img src="https://github.com/oxyone-cloud/Coldservice/raw/main/Softwar%20%20SSCI.png" alt="SSCI Global Software Architecture" width="100%">
@@ -24,13 +33,13 @@ Oxyone Cloud provides high-performance tracking, telemetry, and Business Intelli
 
 ### ❄️ [Cold Service](https://cold-service-othman.web.app)
 **Precision Thermal Monitoring** via Digital Twin.
-- Real-time 3D visualization.
-- Automated compliance PDF reports & BI analytics.
+* Real-time 3D visualization.
+* Automated compliance PDF reports & BI analytics.
 
 ### 📊 [Digital Sense](https://digitalsense-5a6f2.web.app/)
 **The Neural Intelligence Layer.**
-- Advanced Business Intelligence dashboards for complex sensor networks.
-- Secured via OxyONE Core.
+* Advanced Business Intelligence dashboards for complex sensor networks.
+* Secured via OxyONE Core.
 
 ---
 
@@ -73,10 +82,15 @@ Oxyone Cloud provides high-performance tracking, telemetry, and Business Intelli
   </a>
 </p>
 
-- ✉️ **Email :** [othman@panelmets.es](mailto:othman@panelmets.es)
-- 💼 **Services :** Business Intelligence, Industrial Digitization & IoT Consulting
-- 📍 **Locations :** Algeria 🇩🇿 • Barcelona, Spain 🇪🇸
-- 🔗 **Organization :** [github.com/oxyone-cloud](https://github.com/oxyone-cloud)
+* ✉️ **Email :** [othman@panelmets.es](mailto:othman@panelmets.es)
+* 💼 **Services :** Business Intelligence, Industrial Digitization & IoT Consulting
+* 📍 **Locations :** Algeria 🇩🇿 • Barcelona, Spain 🇪🇸
+* 🔗 **Organization :** [github.com/oxyone-cloud](https://github.com/oxyone-cloud)
+
+---
+
+## 🚀 Déploiement GCP
+Projet géré et administré via **Google Cloud Shell**.
 
 ---
 
@@ -88,11 +102,3 @@ Oxyone Cloud provides high-performance tracking, telemetry, and Business Intelli
 <div align="center">
   <img src="https://github.com/oxyone-cloud/Smart-tracking-syst-m/raw/main/Gemini_Generated_Image_yqe11vyqe11vyqe1.png" alt="OxyONE Smart Tracking System" width="100%" />
 </div>
-
-
-## Déploiement GCP
-Projet géré sur Google Cloud Shell ().
-
-
-## Déploiement GCP
-Projet géré sur Google Cloud Shell ().
