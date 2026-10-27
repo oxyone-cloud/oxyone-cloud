@@ -1,4 +1,3 @@
-![Uploading Gemini_Generated_Image_.png…]()
 <p align="center">
   <img width="640" alt="Oxyone Cloud Ecosystem" src="https://github.com/user-attachments/assets/76a33367-df0b-4a72-8a43-20d39fc8b28b" />
 </p>
@@ -46,7 +45,7 @@ Oxyone Cloud provides high-performance tracking, telemetry, and Business Intelli
 
 ## 🛠️ Technology Stack
 
-<p left="center">
+<p align="center">
   <img src="https://img.shields.io/badge/3D-Three.js-00d4ff?style=flat-square&logo=three.dot-js" alt="Three.js" />
   <img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Infra-Google_Cloud-4285F4?style=flat-square&logo=google-cloud" alt="Google Cloud" />
@@ -58,6 +57,12 @@ Oxyone Cloud provides high-performance tracking, telemetry, and Business Intelli
 
 ## 📺 Video Demos & Media
 
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/watch?v=SBGj3I6HjIQ">
-    <img src
+    <img src="https://img.shields.io/badge/YouTube-Watch_Demo_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo 1" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=xiBj3DjVRok">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Demo_2-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo 2" />
+  </a>
+</p>
