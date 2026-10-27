@@ -1,3 +1,4 @@
+![Uploading Gemini_Generated_Image_.png…]()
 <p align="center">
   <img width="640" alt="Oxyone Cloud Ecosystem" src="https://github.com/user-attachments/assets/76a33367-df0b-4a72-8a43-20d39fc8b28b" />
 </p>
